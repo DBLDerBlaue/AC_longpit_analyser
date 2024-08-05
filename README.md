@@ -1,0 +1,1 @@
+Basic script to check if total time spend offline and lap times that are longer than 180s are larger than the total required longstop time (720s). This is based on the Assetto Corsa race log and the average clean lap time provided by the livetiming.
